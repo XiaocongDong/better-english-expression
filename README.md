@@ -71,3 +71,28 @@ You should call your mother more often
 // ought to
 They ought to follow the school's policy, or they will get expelled.
 ```
+
+### 应对某件事
+cope with <=> manage
+```
+This is how you cope with changes when software evolves.
+```
+
+### 旨在，注定是，意味着
+is meant to be
+```
+XML is meant to be human readable.
+Software is meant to be soft.
+```
+
+### 在。。。早起时代
+in the early days of
+```
+In the early days of computing, programmers developed on the bare hardware in the hardware's language.
+```
+
+### 在。。。的时候
+in times of
+```
+You always come up with me in times of trouble.
+```
