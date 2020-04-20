@@ -96,3 +96,9 @@ in times of
 ```
 You always come up with me in times of trouble.
 ```
+
+### 利用
+use => harness
+```
+Both parallelism and the existence of a memory hierarchy improve the potential performance of a machine, but they must be harnessed effectively by the compiler to deliver real performance on an application.
+```
