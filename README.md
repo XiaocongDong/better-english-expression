@@ -96,3 +96,27 @@ in times of
 ```
 You always come up with me in times of trouble.
 ```
+
+### 从。。。的角度
+from xxx's point of view
+```
+This chapter compares several different data models and query languages - the most visible distinguishing factor between databases from a developer's point of view.
+```
+
+### 区别逐渐变淡
+blurred
+```
+The boundaries between database and message queue are becoming blurred.
+```
+
+### 满足需求
+meet the needs
+```
+Increasingly many applications now have such demanding or wide-ranging requirements that a single tool can no longer meet all of its data processing and storage needs.
+```
+
+### 很有可能会发生某件事
+It's very likely that || There's a good chance that
+```
+There's a good chance that I will make mistakes and introduce bugs
+```
