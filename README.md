@@ -119,4 +119,8 @@ Increasingly many applications now have such demanding or wide-ranging requireme
 It's very likely that || There's a good chance that
 ```
 There's a good chance that I will make mistakes and introduce bugs
+### 利用
+use => harness
+```
+Both parallelism and the existence of a memory hierarchy improve the potential performance of a machine, but they must be harnessed effectively by the compiler to deliver real performance on an application.
 ```
